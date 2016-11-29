@@ -1,6 +1,6 @@
 
 #musicSQLite#
-Building SQLite databases from the historical open data of the New York Philharmonic
+Building SQLite databases from the historical open data of the New York Philharmonic (1842 - 2015)
 
 
 #Create and use the database in terminal
